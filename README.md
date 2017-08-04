@@ -1,9 +1,13 @@
 # telegram
 
 Telegram Bot API client for RingoJS. It provides a convenient interface
-to the HTTP-based bot API. It has been tested with RingoJS 0.12 and
-newer. It supports all API methods of Telegram's Bot API 2.1 released
-on May 25, 2016.
+to the HTTP-based bot API. It has been tested with RingoJS 1.0.0 and
+newer. It supports nearly all API methods of Telegram's Bot API 3.1 released
+on July 21, 2017. Payments and game-related features are not implemented yet.
+
+## Documentation
+
+* [API-Reference v1.1.0](https://github.com/orfon/telegram/wiki/API-Reference-Version-1.1.0)
 
 ## License
 
